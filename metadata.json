@@ -1,0 +1,6 @@
+{
+  "name": "Devanagari Script & Language Recognition Studio",
+  "description": "An interactive educational NLP & Vision platform for recognizing Devanagari script characters, handwriting strokes, and classifying Devanagari-based languages (Hindi, Marathi, Sanskrit, Nepali, Konkani) with step-by-step ML pipeline explanations for college academic presentations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
